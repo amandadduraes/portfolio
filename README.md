@@ -2,6 +2,8 @@
 Olá, tudo bom?
 Desenvolvi um portfólio, com informações sobre minhas redes sociais, e um pouquinho da minha trajetória no mundo do desenvolvimento.
 
+![Captura de tela 2023-07-03 234853](https://github.com/amandadduraes/portfolio/assets/54537743/fc9ccd94-f172-41ad-9529-9dc9af63b611)
+
 ## Ferramentas Utilizadas:
 
 * HTML;
@@ -12,6 +14,7 @@ Desenvolvi um portfólio, com informações sobre minhas redes sociais, e um pou
   ### Amanda Durães.
 
   ### Linkedin: https://www.linkedin.com/in/amanda-dias-duraes-04b15a119/
+
 
 # Links úteis
 - https://www.w3schools.com/cssref/css_units.php
