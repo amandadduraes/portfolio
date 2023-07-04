@@ -24,5 +24,6 @@ Desenvolvi um portfólio, com informações sobre minhas redes sociais, e um pou
 - https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/div
 - https://css-tricks.com/almanac/properties/g/gap/
 - https://www.alura.com.br/artigos/css-border-estilizando-bordas-elementos-css?_gl=1*yq3orw*_ga*MTQ2NjEyNTE4NC4xNjU5OTY2MDY4*_ga_59FP0KYKSM*MTY4NzQ1NTI5NC4yMy4xLjE2ODc0NTgxNzQuNTkuMC4w*_fplc*UVYxVERZYk8lMkJma1RvR0FSUnNra0ZFWiUyRnYzUXdYRVVodW1XdjQ1Zm5XVnQlMkZJMm51ekFwMHo4SW50dW1xJTJCUjBwUE45Wkdra1R6S0lNalpPdTlHVHZpME1PRnZPeTNXdHZvJTJGaHRUcTlodHJKaGJBJTJGUWtzQTRVNGtZU085dElBJTNEJTNE
+- https://colorhunt.co/palettes/dark
 
 Observação: Todos estes links foram disponibilizados pela Alura.
