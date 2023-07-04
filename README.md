@@ -1,5 +1,17 @@
 # Portfólio
-Meu portifólio desenvolvido com os cursos de HTML e CSS da Alura.
+Olá, tudo bom?
+Desenvolvi um portfólio, com informações sobre minhas redes sociais, e um pouquinho da minha trajetória no mundo do desenvolvimento.
+
+## Ferramentas Utilizadas:
+
+* HTML;
+* CSS;
+* Flex-box;
+
+  ## Feito por:
+  ### Amanda Durães.
+
+  ### Linkedin: https://www.linkedin.com/in/amanda-dias-duraes-04b15a119/
 
 # Links úteis
 - https://www.w3schools.com/cssref/css_units.php
