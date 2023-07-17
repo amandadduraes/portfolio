@@ -2,6 +2,9 @@
 Olá, tudo bom?
 Desenvolvi um portfólio, com informações sobre minhas redes sociais, e um pouquinho da minha trajetória no mundo do desenvolvimento.
 
+## Acesse pelo link: 
+https://portfolio-fawn-psi-21.vercel.app/about.html
+
 ![Captura de tela 2023-07-03 234853](https://github.com/amandadduraes/portfolio/assets/54537743/fc9ccd94-f172-41ad-9529-9dc9af63b611)
 
 ## Ferramentas Utilizadas:
